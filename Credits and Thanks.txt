@@ -1,0 +1,68 @@
+Thanks and credit goes to the folks whose GPL code is used in this plugin.
+
+Please take a moment to visit these websites and check out the fantastic work the following people create and share.
+
+
+
+WORDPRESS
+
+http://wordpress.org/
+
+Obvious, but hey it doesn't hurt to remember to say "Thanks"!
+
+
+
+JOHN RESIG
+
+http://jquery.com/
+
+Thanks for the brilliant jQuery JavaScript library.
+
+jQuery also includes Sizzle.js, so thanks also to The Dojo Foundation: http://sizzlejs.com/
+
+
+
+STEFAN PETRE
+
+http://eyecon.ro/colorpicker/
+
+Thanks for the Colorpicker code and interface images
+
+
+
+JQUERY PROJECT and JQUERY UI TEAM
+
+http://jqueryui.com/
+
+Thanks for the jQuery UI and all its features
+
+
+
+JOEL BIRCH
+
+http://users.tpg.com.au/j_birch/plugins/superfish/
+
+Thanks for the Superfish and Subersubs jQuery menu code.
+
+Thanks also to Brian Cherne for the hoverIntent code used in the Superfish menu: http://cherne.net/brian/resources/jquery.hoverIntent.html
+
+
+
+DAVID DESANDRO
+
+http://desandro.com/resources/jquery-masonry
+
+Thanks for the jQuery Masonry code
+
+
+
+JACK MOORE
+
+http://colorpowered.com/colorbox/
+
+Thanks for the ColorBox lightbox code
+
+
+
+Thanks so much to all the wonderful people listed above who made this plugin possible in its present form! You're very much appreciated.
+
